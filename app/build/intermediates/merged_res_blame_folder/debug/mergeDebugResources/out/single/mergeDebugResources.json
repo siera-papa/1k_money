@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.project1k.money.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.project1k.money.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/xml_widget_expense_info.xml.flat",
+        "source": "com.project1k.money.app-main-45:/xml/widget_expense_info.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.project1k.money.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.project1k.money.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/xml_widget_transfer_info.xml.flat",
+        "source": "com.project1k.money.app-main-45:/xml/widget_transfer_info.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/drawable_widget_button_background.xml.flat",
+        "source": "com.project1k.money.app-main-45:/drawable/widget_button_background.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.project1k.money.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/layout_widget_single_action.xml.flat",
+        "source": "com.project1k.money.app-main-45:/layout/widget_single_action.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/xml_widget_calc_info.xml.flat",
+        "source": "com.project1k.money.app-main-45:/xml/widget_calc_info.xml"
+    },
+    {
+        "merged": "com.project1k.money.app-debug-43:/xml_widget_income_info.xml.flat",
+        "source": "com.project1k.money.app-main-45:/xml/widget_income_info.xml"
+    }
+]

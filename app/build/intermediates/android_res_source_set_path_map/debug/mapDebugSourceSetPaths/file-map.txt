@@ -1,0 +1,8 @@
+com.project1k.money.app-pngs-0 /home/stefan/Downloads/1k_money/app/build/generated/res/pngs/debug
+com.project1k.money.app-updated_navigation_xml-1 /home/stefan/Downloads/1k_money/app/build/generated/updated_navigation_xml/debug
+com.project1k.money.app-packageDebugResources-2 /home/stefan/Downloads/1k_money/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.project1k.money.app-packageDebugResources-3 /home/stefan/Downloads/1k_money/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.project1k.money.app-debug-4 /home/stefan/Downloads/1k_money/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.project1k.money.app-debug-5 /home/stefan/Downloads/1k_money/app/src/debug/res
+com.project1k.money.app-main-6 /home/stefan/Downloads/1k_money/app/src/main/res
+gradleHome-0 /home/stefan/.gradle

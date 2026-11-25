@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_accent">#FFFFFF</color>
+    <color name="launcher_bg">#17151F</color>
+    <color name="launcher_fg">#FF4000</color>
+    <color name="widget_background">#202124</color>
+    <color name="widget_button">#303134</color>
+    <color name="widget_text">#FFFFFF</color>
+    <string name="app_name">1K Money</string>
+    <string name="widget_calc_description">Cash Calc</string>
+    <string name="widget_expense_description">Expense</string>
+    <string name="widget_income_description">Income</string>
+    <string name="widget_transfer_description">Transfer</string>
+    <style name="Theme.Project1KMoney" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#101114</item>
+        <item name="android:statusBarColor">#101114</item>
+    </style>
+    <style name="Theme.Project1KMoney.QuickEntry" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.0</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#FF4000</item>
+    </style>
+</resources>

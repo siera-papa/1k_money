@@ -1,0 +1,5 @@
+<resources>
+    <color name="launcher_bg">#17151F</color>
+    <color name="launcher_fg">#FF4000</color>
+    <color name="launcher_accent">#FFFFFF</color>
+</resources>

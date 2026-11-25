@@ -1,0 +1,25 @@
+com.project1k.money
+color launcher_accent
+color launcher_bg
+color launcher_fg
+color widget_background
+color widget_button
+color widget_text
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable widget_button_background
+id widget_action
+layout widget_single_action
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string widget_calc_description
+string widget_expense_description
+string widget_income_description
+string widget_transfer_description
+style Theme_Project1KMoney
+style Theme_Project1KMoney_QuickEntry
+xml widget_calc_info
+xml widget_expense_info
+xml widget_income_info
+xml widget_transfer_info

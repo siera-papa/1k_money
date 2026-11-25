@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1K Money</string>
+    <string name="widget_expense_description">Expense</string>
+    <string name="widget_transfer_description">Transfer</string>
+    <string name="widget_income_description">Income</string>
+    <string name="widget_calc_description">Cash Calc</string>
+</resources>
